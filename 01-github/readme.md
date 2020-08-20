@@ -20,8 +20,15 @@ fazer um git clone, abrir no visual studio clone.
 e colocar as anotações. 
 salva como jpeg - imagem
 
+> Adiciona o arquivo em stage
+```bash
 git add ./01-github/readme.md 
-
+```
+> Comita os arquivos em stage
+```bash
 git commit -m 'primeiro commit
-
+```
+> Submete os commits não enviados para o remote origin
+```bash
 git push origin master
+```
