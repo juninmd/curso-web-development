@@ -37,4 +37,4 @@ git push origin master
 git pull origin master
 ```
 ---
-20/08/20
+20/08/2020
