@@ -2,9 +2,9 @@
 
 ![arquitetura](./imagem.png)
 
-GIT E GITHUB:
+## GIT E GITHUB:
 
-git é um site
+> git é um site
 
 repositório = pasta
 github = host = hospedagem
@@ -31,4 +31,8 @@ git commit -m 'primeiro commit
 > Submete os commits não enviados para o remote origin
 ```bash
 git push origin master
+```
+> Puxa os commits remotos para o repositório local
+```bash
+git pull origin master
 ```
