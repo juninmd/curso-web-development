@@ -23,3 +23,5 @@ salva como jpeg - imagem
 git add ./01-github/readme.md 
 
 git commit -m 'primeiro commit
+
+git push origin master
