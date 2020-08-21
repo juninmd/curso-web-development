@@ -87,3 +87,4 @@ git stash pop
 1º número - mudança grande
 2º número - funcionalidade nova
 3º número - bug fixo
+
