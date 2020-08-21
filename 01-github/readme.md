@@ -86,7 +86,8 @@ git stash pop
 ```
 
 > semantic version (exemplo> 1.0.0)
-1º número - mudança grande
+```bash
+1º número - mudança grande 
 2º número - funcionalidade nova
 3º número - bug fixo
-
+```
