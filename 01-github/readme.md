@@ -38,3 +38,8 @@ git pull origin master
 ```
 ---
 20/08/2020
+
+---
+O modo como você reúne, administra e usa a informação determina se vencerá ou perderá.
+
+![bill gates](./bill.jpg)
