@@ -69,7 +69,9 @@ git checkout -b NOME DA BRANCH
 
  > criando e mantendo oculta uma pasta que precisa ficar somente local
  ``` bash
-Usar arquivo secreto(com senhas, etc): cria pasta .env (nela vai inserir o que não pode ser enviado para o repositório). Depois criamos a pasta .gitignore. 
+Usar arquivo secreto(com senhas, etc): cria pasta .env 
+(nela vai inserir o que não pode ser enviado para o repositório). 
+Depois criamos a pasta .gitignore. 
 Na pasta gitgore insere o nome da pasta que deve ficar somente local.
 ```
 
