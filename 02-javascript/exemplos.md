@@ -112,6 +112,22 @@ const numeros = [1,2,3];
 const [a, ...rest] = numeros;
 console.log(a, b, c) // a, [2,3]
 
+## CONSTRUCT
+> Copiar atributos de um objeto para outro.
+
+const carroVelho = {
+    cor: 'vermelho',
+    status: 'quebrado'
+} 
+const cor = 'azul';
+const carro = {
+    modelo: 'fusca',
+    marca: 'volkswagen',
+    portas: 2,
+    ...carroVelho
+};
+
+
 ```
 ## CallBack
 ```javascript
