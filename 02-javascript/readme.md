@@ -340,4 +340,6 @@ border: 1px solid #ccc;">
 </tr>
 </tbody></table>
 
+https://www.valentinog.com/blog/static/7e9e29356715f3c4830524da02e4cf68/7a3d6/var-let-const-cheatsheet.png
+
 https://github.com/alinecintra/cursoJavaScript.git
