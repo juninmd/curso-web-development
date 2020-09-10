@@ -225,7 +225,14 @@ async function getLista(qtd) {
 
     return lista;
 }
+
+// Conversão de valor monetário;
+
+console.log(new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(5.32));
+
+
 ```
+
 
 // Para conseguir executar deixe descomentado somente 1 bloco por vez.
 // FUNÇAO SIMPLES
