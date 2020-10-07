@@ -153,7 +153,7 @@ function getLista(qtd, callback) {
     }
 
     if (lista.length > 5) {
-        return callback(new Error('limite excedido de lista'), null);
+        return callback(new Error('limite excedido de lista'), null);'
     }
 
     return callback(null, lista);
